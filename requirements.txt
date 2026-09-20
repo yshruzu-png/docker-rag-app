@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+azure-search-documents
+azure-core
+python-dotenv
+
+# Install the above packages using the following command
+# pip install -r requirements.txt
